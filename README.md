@@ -17,7 +17,7 @@ A EcoDAO fornecerá financiamento e suporte a projetos ecológicos, como refores
 
 Objetivo:Facilitar a comunicação e colaboração entre os membros.
 Ação: 
- - Criar um servidor no Discord e configurar canais específicos:
+  Criar um servidor no Discord e configurar canais específicos:
      Anúncios - Para atualizações oficiais.
      Discussões gerais- Para troca de ideias.
      Propostas - Para apresentação de novos projetos.
