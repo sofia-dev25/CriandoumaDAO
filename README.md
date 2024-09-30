@@ -70,11 +70,9 @@ Ação:
    Consultar um advogado especializado em blockchain para estabelecer a LLC.
    Definir a estrutura legal e a responsabilidade dos membros.
    Valor: Proteção legal e credibilidade da DAO.
-
- Próximos Passos
-
-    Lançamento oficial: Organizar um evento virtual para apresentar a DAO, suas metas e como as pessoas podem participar.
-    Engajamento contínuo: Manter a comunidade informada com atualizações regulares e oportunidades de participação.
-
- Conclusão
+   
+Próximos Passos:
+    Lançamento oficial: Organize um evento virtual para apresentar a EcoDAO, suas metas e como as pessoas podem participar.
+    Engajamento contínuo: Mantenha a comunidade informada com atualizações regulares e oportunidades de participação.
+    
 A EcoSolutions esta sendo pensada para capacitar a comunidade a se envolver ativamente na promoção de práticas ecológicas. Cada etapa não apenas cria a infraestrutura necessária para a DAO, mas também reforça a missão de colaboração e impacto positivo no meio ambiente. Engajar os membros em todas as fases garante que a DAO se mantenha alinhada com seus objetivos e entreguar valor de forma eficaz.
